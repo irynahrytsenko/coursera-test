@@ -1,2 +1,2 @@
-# irynahrytsenko.coursera-test.io
+# coursera-test
 Coursera test repository
